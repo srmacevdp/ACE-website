@@ -4,35 +4,30 @@
       "title": "Dark Web Threat Intelligence Extraction",
       "description": "Cybercriminals use the dark web to plan attacks, trade stolen data, and share malware. Security teams often struggle to track these discussions due to unstructured, multilingual, and constantly shifting platforms. There is a need for an intelligent system that can automatically scan, analyze, and extract meaningful threat intelligence from dark web sources, helping organizations identify risks early and strengthen cybersecurity defenses.",
       "theme": "Cybersecurity",
-      "dataset": null,
       "icon":"0"
     },
     {
       "title": "AI-driven Referee Bias & Decision Pattern Detector",
       "description": "In competitive sports, referee decisions play a crucial role, but human judgment is often prone to unconscious bias or inconsistency. This can lead to unfair advantages, disputes, and reduced trust in tournaments. There is a need for an AI-powered solution that can analyze referee decisions, commentary, and historical match data to identify bias patterns, ensuring greater transparency, accountability, and fairness in sports officiating.",
       "theme": "Sports",
-      "dataset": null,
       "icon":"1"
     },
     {
       "title": "AI-driven Ball-by-Ball Commentary Summarizer",
       "description": "Sports fans and analysts often find ball-by-ball commentary lengthy and difficult to follow in real time. Manual summarization is inconsistent and time-consuming, reducing the accessibility of key match highlights. An intelligent system is required that can automatically process live cricket commentary and generate concise summaries, key turning points, and performance stats, making match insights more engaging and accessible.",
       "theme": "Sports",
-      "dataset": null,
       "icon":"1"
     },
     {
       "title": "AI-powered Bail Decision Support System",
       "description": "Judicial systems face challenges in handling the high volume of bail applications, often leading to delays and inconsistencies. Judges must consider FIRs, chargesheets, and legal precedents while ensuring fairness and avoiding bias. There is a need for a decision support system that can analyze case data and past rulings to provide evidence-based bail recommendations, improving efficiency, transparency, and justice delivery.",
       "theme": "Legal Tech",
-      "dataset": null,
       "icon":"2"
     },
     {
       "title": "AI-driven Legal Precedent Finder",
       "description": "Lawyers and judges frequently rely on past judgments to strengthen legal arguments and ensure fair rulings. However, manually searching through large volumes of case laws across jurisdictions is time-consuming and error-prone. An intelligent legal research assistant is required that can analyze ongoing cases and automatically retrieve the most relevant precedents, improving efficiency and ensuring consistency in judicial decisions.",
       "theme": "Legal Tech",
-      "dataset": null,
       "icon":"2"
     },
     {
@@ -60,8 +55,7 @@
       "title": "AI-driven Crop Advisory from Farmer Helpline Calls",
       "description": "Farmers often seek support through helpline calls to address problems such as pests, soil health, or irrigation. However, the vast number of calls makes it difficult to respond quickly and provide personalized advice. An AI-powered solution is required that can analyze helpline audio, classify issues, and deliver context-aware recommendations, empowering farmers with timely and actionable guidance.",
       "theme": "Agriculture & Rural Development",
-      "icon":"4",
-      "dataset": null
+      "icon":"4"
     },
     {
       "title": "Agricultural Disease Detection via Multimodal NLP",

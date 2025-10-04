@@ -19,11 +19,11 @@ interface CardProps {
   description: string;
   theme?: string;
   icon?: string;
-  onClick: () => void;
+  onClick: (e:any) => void;
 }
 
 const Card: React.FC<CardProps> = ({ title, description, onClick, theme,icon }) => {
-    const ic:number = icon;
+    const ic:any = icon;
 
   return (
     <>

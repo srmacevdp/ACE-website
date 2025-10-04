@@ -11,7 +11,7 @@ const Counter: React.FC<CounterProps> = ({ end, duration = 2000, trigger }) => {
   const [count, setCount] = useState(0);
 
   useEffect(() => {
-    let timer: NodeJS.Timeout;
+    let timer: number;
 
     if (trigger) {
       setCount(0); // reset when triggered

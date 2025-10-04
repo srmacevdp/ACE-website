@@ -4,7 +4,7 @@ import Card from "../components/Card";
 import StatsGrid from "../util/Counter";
 import GlassCard from "../components/GlassCard";
 import ImageCarousel from "../components/ImageCarousel";
-import VideoPlayer from "../components/VideoPlayer";
+// import VideoPlayer from "../components/VideoPlayer";
 
 import Senior from "../assets/JSON/BOD-SENIOR.json";
 import Junior from "../assets/JSON/BOD-JUNIOR.json";
