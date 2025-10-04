@@ -1,6 +1,8 @@
 import Layout from './util/Layout'
 import { Routes, Route } from 'react-router-dom'
 import Home from './pages/Home'
+import Hacks from './pages/Hacks'
+import Nlp from './pages/Nlp'
 
 const App = () => {
   return (
@@ -8,6 +10,8 @@ const App = () => {
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<Home/>} />
+          <Route path="/hacks" element={<Hacks/>}/>
+          <Route path="/nlp" element={<Nlp/>}/>
         </Route>
       </Routes>
     </>
