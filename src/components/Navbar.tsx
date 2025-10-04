@@ -2,6 +2,7 @@ import { NavLink, useLocation } from "react-router-dom";
 import { IoMenu, IoClose, IoHomeOutline } from "react-icons/io5";
 import { GrGallery } from "react-icons/gr";
 import { IoIosInformationCircleOutline } from "react-icons/io";
+import { CiMicrophoneOn } from "react-icons/ci";
 import { useState, useEffect } from "react";
 import { type JSX } from "react";
 
@@ -12,11 +13,19 @@ interface Link {
 }
 
 const links: Link[] = [
-  { name: "Home", href: "/", icon: <IoHomeOutline /> },
-  { name: "About Us", href: "#about", icon: <IoIosInformationCircleOutline /> },
+  { name: "Home", href: "/", icon: <IoHomeOutline className="text-xl" /> },
+  {
+    name: "About Us",
+    href: "#about",
+    icon: <IoIosInformationCircleOutline className="text-2xl" />,
+  },
   { name: "Gallery", href: "#gallery", icon: <GrGallery /> },
   { name: "Ubertech", href: "/Ubertech" },
-  { name: "NLP Odessey", href: "/NLP" },
+  {
+    name: "NLP Odessey",
+    href: "/NLP",
+    icon: <CiMicrophoneOn className="text-2xl" />,
+  },
   { name: "ACE Hacks", href: "/Hacks" },
 ];
 
@@ -146,7 +155,9 @@ const Navbar = () => {
               return (
                 <li key={i}>
                   <NavLink
-                    to={link.href.startsWith("#") ? location.pathname : link.href}
+                    to={
+                      link.href.startsWith("#") ? location.pathname : link.href
+                    }
                     onClick={(e) => {
                       if (link.href.startsWith("#")) {
                         e.preventDefault();

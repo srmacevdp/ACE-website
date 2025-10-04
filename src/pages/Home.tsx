@@ -58,15 +58,16 @@ const juniorBod: Member[] = Junior.bod_junior;
 const Home = () => {
   return (
     <div className="home h-full px-2 md:px-10 mt-30 md:mt-50 flex flex-col">
-
       <div className="wrapper">
         <div className="hero flex pt-6 px-1">
-          <div className="left text-white font-orbitron flex flex-col justify-center items-baseline gap-3">
+          <div className="left md:ml-10 text-white font-orbitron flex flex-col justify-center items-baseline gap-3">
             <h1 className="text-4xl md:text-7xl font-bold">
               Welcome to <GradientText className="text-7xl">ACE</GradientText>
             </h1>
-            <p>Let's explore and create your experience with ACE</p>
-            <GradientButton className="mt-4">
+            <p className="mt-3">
+              Let's explore and create your experience with ACE
+            </p>
+            <GradientButton className="mt-7">
               <GradientText className="text-sm md:text-2xl">
                 Join the club
               </GradientText>
