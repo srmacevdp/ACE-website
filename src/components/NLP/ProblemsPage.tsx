@@ -43,7 +43,7 @@ const ProblemsPage: React.FC = () => {
             description={p.description}
             theme={p.theme}
             icon={p.icon}
-            onClick={(e): void => {
+            onClick={(_e): void => {
               openModal(p);
             }}
           />
