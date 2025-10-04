@@ -27,7 +27,7 @@ const Hero: React.FC = () => {
         </p>
 
         <div className="mt-15 flex flex-col sm:flex-row items-center justify-center gap-4">
-          <GradientButton className="text-2xl font-orbitron">
+          <GradientButton className="text-2xl font-orbitron" onClick={() => window.location.href = "https://docs.google.com/forms/d/1WpKY3IepcH8A6-Bpp83wK-L3eHddHNgfUove3PQeAjY/viewform?ts=68de897f&edit_requested=true"}>
             Register Now
           </GradientButton>
         </div>
