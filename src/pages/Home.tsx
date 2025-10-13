@@ -36,13 +36,13 @@ const Events: Event[] = [
     name: "ACE Hacks",
     image: "/Events/hacks.png",
     description: "A premier National Level Hackathon.",
-    link: "/events",
+    link: "/Hacks",
   },
   {
     name: "UberTech",
     image: "/Events/UT.png",
     description: "Our flagship Technical Symposium.",
-    link: "/events",
+    link: "/Ubertech",
   },
   {
     name: "NLP Odessey",
