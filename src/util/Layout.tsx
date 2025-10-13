@@ -1,7 +1,6 @@
 import { Outlet } from "react-router-dom";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
-import ThreeBg from "../components/Three";
 import FloatingParticlesScroll from "../components/ThreeUT";
 
 const Layout: React.FC = () => {
