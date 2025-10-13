@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import ProblemModal from "./ProblemModal";
 import Card from "./Card";
-import GradientText from "../../util/Gradtxt";
 import prb from "../../assets/JSON/problems.json";
 
 
@@ -30,9 +29,6 @@ const ProblemsPage: React.FC = () => {
 
   return (
     <div className=" w-full p-7 space-y-10">
-      <h1 className="text-4xl mt-7 font-bold text-center text-white font-orbitron">
-        Problem <GradientText className="text-4xl">Statements</GradientText>
-      </h1>
 
       {/* Problem Cards */}
       <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">

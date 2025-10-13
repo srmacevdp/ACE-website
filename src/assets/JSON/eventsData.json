@@ -1,0 +1,192 @@
+[
+  {
+    "name": "Cypher Chase",
+    "description": "A digital mystery-solving game based on cyber-forensics, where players investigate clues, analyze data, and unravel hidden secrets to solve the case.",
+    "image": "/Events/UT/chase.png",
+    "date": "Fri, October 24, 2025**.",
+    "time": "TBA",
+    "venue": "LAB 1",
+    "fee": "Team of 2 - ₹140",
+    "rules": [],
+    "rounds": [],
+    "contactPerson": [
+      { "name": "A Soujanya", "phone": "+91 9951923078" },
+      { "name": "S sreya", "phone": "+91 7299168515" }
+    ],
+    "registrationLink": "https://docs.google.com/forms/d/1c4xSpGoBlBOjpsWBFVCHd8lJF_LLqpbb_hoxff6w0dw/edit?ts=68ebd161",
+    "type": "Technical"
+  },
+  {
+    "name": "Prompt Wars",
+    "description": "Contestants use AI too..to generate outputs based on a theme. best/most creative wins.",
+    "image": "/Events/UT/war.png",
+    "date": "Thu, 23rd of October, 2025.",
+    "time": "TBA",
+    "venue": "LAB 1",
+    "fee": "Team of 2 - ₹120",
+    "rules": [],
+    "rounds": [],
+    "contactPerson": [
+      { "name": "Sarthak Agarwal", "phone": "+91 8299426750" },
+      { "name": "Sandhya Dillybabu", "phone": "+91 9500698899" }
+    ],
+    "registrationLink": "https://docs.google.com/forms/d/1RBiGgv2CBGIAJF-BZn-BLK4wP-dFaYWk0IqclEfwrQs/edit?usp=sharing_eil_se_dm&ts=68ebd17c",
+    "type": "Technical"
+  },
+  {
+    "name": "Bug Blitz",
+    "description": "This is a fast-paced coding challenge for Individuals or Teams designed to test debugging and diagnostic skills under pressure.",
+    "image": "/Events/UT/bug.png",
+    "date": "Thu, 23rd of October, 2025.",
+    "time": "TBA",
+    "venue": "CW 305",
+    "fee": "Team of 2 - ₹120",
+    "rules": [],
+    "rounds": [
+      "Round 1: Buggy Code Snippets: Participants race to find and fix errors in short, problematic code fragments.",
+      "Round 2 : System Diagnosis: Players must diagnose and fix larger, more complex issues within the faulty system/computer under a strict time limit."
+    ],
+    "contactPerson": [
+      { "name": "Vibhu Sahu", "phone": "+91 9340089039" },
+      { "name": "Rudrakash Agarwal", "phone": "+91 6383159411" }
+    ],
+    "registrationLink": "https://docs.google.com/forms/d/1x2Xx9n5cxi-uKzbgDyavTbt1VFOBFtJSGd7Brc0ZoEc/edit?usp=sharing_eil_se_dm&ts=68ebd14c",
+    "type": "Technical"
+  },
+  {
+    "name": "Design Escape",
+    "description": "challenge where participants quickly create innovative, user-friendly designs to solve a given problem, judged on creativity, usability, and visual appeal.",
+    "image": "/Events/UT/escape.png",
+    "date": "Fri, October 24, 2025.",
+    "time": "TBA",
+    "venue": "LAB 2",
+    "fee": "Team of 2 - ₹120",
+    "rules": [],
+    "rounds": [],
+    "contactPerson": [
+      { "name": "Yogesh", "phone": "+91 8072591978" },
+      { "name": "Jai Kaarthik B", "phone": "+91 8870354206" }
+    ],
+    "registrationLink": "https://docs.google.com/forms/d/1SGyMWGeHonJXnZ5Qm5IpwkJ9YWQdYodRsFEJLvNyzZo/edit?ts=68ebd191",
+    "type": "Technical"
+  },
+  {
+    "name": "Flip the Script",
+    "description": "participants first argue for a given topic, presenting strong points in its favor. When the host announces “switch,” they must instantly shift and argue against the same topic with equal conviction. This format tests quick thinking, adaptability, and the ability to see both sides of an argument.",
+    "image": "/Events/UT/flip.png",
+    "date": "Thu, 23rd of October, 2025.",
+    "time": "TBA",
+    "venue": "BW 108",
+    "fee": "₹75",
+    "rules": [],
+    "rounds": [],
+    "contactPerson": [
+      { "name": "Vidya", "phone": "+91 9940057896" },
+      { "name": "Nithila K", "phone": "+91 8122992345" }
+    ],
+    "registrationLink": "https://docs.google.com/forms/d/1d_Xvfj5bStHTSM4Puj6HjoZBLKwXl-Jmr2XfvQ1HOmc/edit?usp=sharing_eil_se_dm&ts=68ebd112",
+    "type": "Non-Technical"
+  },
+  {
+    "name": "Trivia trek",
+    "description": "A cinematic trivia challenge spanning the finest moments of world cinema..",
+    "image": "/Events/UT/trivia.png",
+    "date": "Fri, October 24, 2025.",
+    "time": "TBA",
+    "venue": "CW 304",
+    "fee": "Team of 2 - ₹120 Team of 3 - ₹180",
+    "rules": [],
+    "rounds": [],
+    "contactPerson": [
+      { "name": "Sarah Ninan", "phone": "+91 9003259538" },
+      { "name": "Bhavana L ", "phone": "+91 9176064756" }
+    ],
+    "registrationLink": "https://docs.google.com/forms/d/1oQF3grb8EyWvyTZiqQ_E-fpJ_YTk1dALMRmPsEmK-2M/edit?usp=sharing_eil_se_dm&ts=68ebd0e3",
+    "type": "Non-Technical"
+  },
+  {
+    "name": "IPL Auction",
+    "description": "The IPL Auction brings the thrill of strategy and bidding as teams compete to build their dream squads. Get ready for high stakes, surprises, and the excitement of cricket’s biggest marketplace",
+    "image": "/Events/UT/ipl.png",
+    "date": "Thu, 23rd of October, 2025.",
+    "time": "TBA",
+    "venue": "AUDITORIUM",
+    "fee": "Team of 2 - ₹140 Team of 3 - ₹180 Team of 3 - ₹200",
+    "rules": [],
+    "rounds": [],
+    "contactPerson": [
+      { "name": "Vignesh Murali", "phone": "+91 9363683814" },
+      { "name": "T Aakash", "phone": "+91 8778980782" }
+    ],
+    "registrationLink": "https://docs.google.com/forms/d/1bV041Ftuqdh6MpjzpSxYIDDZi1C7H8i7IH_KwEjy9Dc/edit?usp=sharing_eil_se_dm&ts=68ebd0f9",
+    "type": "Non-Technical"
+  },
+  {
+    "name": "Ship wreck",
+    "description": "Each participant is a famous character (Thanos, Messi, Einstein, Barbie ).They must convince the judges why they deserve the last spot on a sinking ship.Super fun + creative acting!",
+    "image": "/Events/UT/ship.png",
+    "date": "Fri, October 24, 2025.",
+    "time": "TBA",
+    "venue": "BW 108",
+    "fee": "₹75",
+    "rules": [],
+    "rounds": [],
+    "contactPerson": [
+      { "name": "Aditi Singh", "phone": "+91 6394131330" },
+      { "name": "Zarana", "phone": "+91 8248644332" }
+    ],
+    "registrationLink": "https://docs.google.com/forms/d/1WjVWq4CCeNb9f3tswriyXHakH0R8H2oGyegoPOII83g/edit?usp=sharing_eil_se_dm&ts=68ebd132",
+    "type": "Non-Technical"
+  },
+  {
+    "name": "FIFA",
+    "description": "Kick, Score and conquer the digital pitch of the football simulation video game.",
+    "image": "/Events/UT/fifa.png",
+    "date": "Thu, 23rd of October, 2025.",
+    "time": "TBA",
+    "venue": "LAB 2",
+    "fee": "Team of 2 - ₹150",
+    "rules": [],
+    "rounds": [],
+    "contactPerson": [
+      { "name": "Hameed Salihu", "phone": "+91 7358160521" },
+      { "name": "Karthik Balaji M", "phone": "+91 9343519237" }
+    ],
+    "registrationLink": "https://docs.google.com/forms/d/1aiy5r5QdflTs4hPQ3kPGes7WCCuSsppiGHkGtAdsbJM/edit?usp=sharing_eil_se_dm&ts=68ebd074",
+    "type": "Gaming"
+  },
+  {
+    "name": "BGMI",
+    "description": "We got supplies. It is a team event where you can showcase your BGMI skills.",
+    "image": "/Events/UT/BGMI.png",
+    "date": "Fri, October 24, 2025.",
+    "time": "TBA",
+    "venue": "BW 308",
+    "fee": "Team of 2 - ₹140 Team of 3 - ₹180 Team of 3 - ₹200",
+    "rules": [],
+    "rounds": [],
+    "contactPerson": [
+      { "name": "Tejas Srinivasan M", "phone": "+91 9994077703" },
+      { "name": "Kaushik P", "phone": "+91 9444263542" }
+    ],
+    "registrationLink": "https://docs.google.com/forms/d/1lDbLuTSugEp0FIr4R9SUkSxBvTcB4bi4wAdVI8zz5RU/edit?usp=sharing_eil_se_dm&ts=68ebd0ce",
+    "type": "Gaming"
+  },
+  {
+    "name": "Valorant",
+    "description": "Unleash your tactical prowess! Gear up, lock and load to dominate the battlefield of Valorant",
+    "image": "/Events/UT/valorant.png",
+    "date": "Thu, 23rd of October, 2025.",
+    "time": "TBA",
+    "venue": "BW 308",
+    "fee": "Team of 5 - ₹300",
+    "rules": [],
+    "rounds": ["Round 1 : Knockout round", "Round 2: Best of 3 maps"],
+    "contactPerson": [
+      { "name": "Mark Owen A", "phone": "+91 9499006899" },
+      { "name": "Deepak", "phone": "+91 7200156900" }
+    ],
+    "registrationLink": "https://docs.google.com/forms/d/1zdZmWcGw1IuCtfwPBGddG5FRAgm81SeYv5TKtnZSz4c/edit?usp=sharing_eil_se_dm&ts=68ebd0a4",
+    "type": "Gaming"
+  }
+]

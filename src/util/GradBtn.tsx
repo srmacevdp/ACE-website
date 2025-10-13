@@ -13,7 +13,7 @@ const GradientButton: React.FC<GradientButtonProps> = ({ children, onClick, clas
       className={`
         px-7 py-4 rounded-full 
         text-white font-semibold 
-        border-1  shadow-[0_0_10px_#0ff,0_0_20px_#0ff,0_0_30px_#0ff] animate-pulse 
+        border-1  shadow-[0_0_10px_#0ff,0_0_20px_#0ff,0_0_30px_#0ff]
         cursor-pointer
         ${className}
       `}

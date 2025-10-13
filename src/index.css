@@ -12,6 +12,10 @@
   --animate-gradient: gradient-animation 2s ease-in-out infinite;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 ::-webkit-scrollbar {
   display: none;
 }
