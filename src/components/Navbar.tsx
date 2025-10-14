@@ -7,12 +7,12 @@ import { IoMenu, IoClose, IoHomeOutline } from "react-icons/io5";
 import { GrGallery } from "react-icons/gr";
 import { IoIosInformationCircleOutline } from "react-icons/io";
 import { CiMicrophoneOn } from "react-icons/ci";
-
+import UT from "/Events/UT-icon.png";
 // --- TYPES & DATA ---
 interface Link {
   name: string;
   href: string;
-  icon?: JSX.Element;
+  icon?: any;
 }
 
 const links: Link[] = [
@@ -23,7 +23,7 @@ const links: Link[] = [
     icon: <IoIosInformationCircleOutline className="text-2xl" />,
   },
   { name: "Gallery", href: "#gallery", icon: <GrGallery /> },
-  { name: "Ubertech", href: "/Ubertech" },
+  { name: "Ubertech", href: "/Ubertech", icon: <img src={UT} width={21} /> },
   {
     name: "NLP Odessey",
     href: "/NLP",
@@ -42,8 +42,16 @@ interface MobileMenuProps {
 const MobileMenu = ({ isOpen, onClose, renderNavLinks }: MobileMenuProps) => {
   const menuVariants: Variants = {
     hidden: { opacity: 0, x: "100%" },
-    visible: { opacity: 1, x: 0, transition: { duration: 0.35, ease: [0.32, 0.72, 0, 1] } },
-    exit: { opacity: 0, x: "100%", transition: { duration: 0.25, ease: [0.32, 0.72, 0, 1] } },
+    visible: {
+      opacity: 1,
+      x: 0,
+      transition: { duration: 0.35, ease: [0.32, 0.72, 0, 1] },
+    },
+    exit: {
+      opacity: 0,
+      x: "100%",
+      transition: { duration: 0.25, ease: [0.32, 0.72, 0, 1] },
+    },
   };
 
   const listVariants: Variants = {
@@ -52,7 +60,7 @@ const MobileMenu = ({ isOpen, onClose, renderNavLinks }: MobileMenuProps) => {
     },
     hidden: {},
   };
-  
+
   const liquidGlassStyle = {
     background: `
       radial-gradient(circle at 15% 20%, rgba(0, 255, 255, 0.12), transparent 40%),
@@ -104,7 +112,6 @@ const MobileMenu = ({ isOpen, onClose, renderNavLinks }: MobileMenuProps) => {
   );
 };
 
-
 // --- MAIN NAVBAR COMPONENT ---
 const Navbar = () => {
   const [isMenuOpen, setMenuOpen] = useState(false);
@@ -121,7 +128,11 @@ const Navbar = () => {
       let currentSection = "";
       for (const sec of sections) {
         const el = document.querySelector(sec.href) as HTMLElement | null;
-        if (el && scrollY >= el.offsetTop && scrollY < el.offsetTop + el.offsetHeight) {
+        if (
+          el &&
+          scrollY >= el.offsetTop &&
+          scrollY < el.offsetTop + el.offsetHeight
+        ) {
           currentSection = sec.href;
           break;
         }
@@ -142,7 +153,7 @@ const Navbar = () => {
     }
     setMenuOpen(false);
   };
-  
+
   const isLinkActive = (link: Link) => {
     if (link.href.startsWith("#")) {
       return activeSection === link.href;
@@ -161,7 +172,11 @@ const Navbar = () => {
       return (
         <motion.li key={i} variants={linkItemVariants}>
           <NavLink
-            to={link.href.startsWith("#") ? location.pathname + link.href : link.href}
+            to={
+              link.href.startsWith("#")
+                ? location.pathname + link.href
+                : link.href
+            }
             onClick={(e) => {
               if (link.href.startsWith("#")) {
                 handleHashClick(link.href, e);
@@ -170,7 +185,7 @@ const Navbar = () => {
               }
             }}
             className={`flex items-center gap-2 px-4 py-2 rounded-full transition-all duration-300 ${
-                isActive
+              isActive
                 ? "bg-cyan-400/20 text-cyan-300"
                 : "text-white/80 hover:text-white hover:bg-white/10"
             }`}
@@ -187,11 +202,17 @@ const Navbar = () => {
     <>
       <nav
         className={`fixed top-0 left-0 w-full z-30 p-4 text-white font-poppins transition-all duration-300 ${
-          isScrolled || isMenuOpen ? "bg-slate-900/50 backdrop-blur-md shadow-lg" : "bg-transparent"
+          isScrolled || isMenuOpen
+            ? "bg-slate-900/50 backdrop-blur-md shadow-lg"
+            : "bg-transparent"
         }`}
       >
         <div className="container mx-auto flex justify-between items-center md:px-10">
-          <NavLink to="/" className="flex items-center gap-3" onClick={() => setMenuOpen(false)}>
+          <NavLink
+            to="/"
+            className="flex items-center gap-3"
+            onClick={() => setMenuOpen(false)}
+          >
             <img
               src="/ace.png"
               alt="ACE Club Logo"
