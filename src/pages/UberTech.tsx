@@ -1,6 +1,8 @@
 import UbertechHeroSection from "../components/UT/UbertechHeroSection";
 import EventsList from "../components/UT/EventsList";
 import { StatCard } from "../components/UT/StatCard";
+import Faq from "../components/UT/Faq";
+import GradientText from "../util/Gradtxt";
 
 const UberTech = () => {
   return (
@@ -17,6 +19,21 @@ const UberTech = () => {
         <StatCard target={3} label="Gaming" category="Events" />
       </section>
       <EventsList />
+
+      <div className="faq p-5">
+        <div className="text-center p-5 font-orbitron md:text-4xl text-2xl md:mt-13">
+          <h1>
+            <GradientText className="text-2xl md:text-4xl">F</GradientText>
+            requently{" "}
+            <GradientText className="text-2xl md:text-4xl">
+              A
+            </GradientText>sked{" "}
+            <GradientText className="text-2xl md:text-4xl">Q</GradientText>
+            uestions
+          </h1>
+        </div>
+        <Faq />
+      </div>
     </div>
   );
 };

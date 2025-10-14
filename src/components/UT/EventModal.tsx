@@ -96,7 +96,7 @@ const EventModal: React.FC<EventModalProps> = ({ event, onClose }) => {
   return (
     <motion.div
       id="eventModal"
-      className="fixed inset-0 z-50 flex items-start justify-center px-4 pb-4 pt-[50px]"
+      className="fixed inset-0 z-50 flex items-start justify-center md:mt-0 -mt-11 px-4 pb-5 pt-[50px]"
       onClick={handleClose}
       initial="hidden"
       animate={isVisible ? "visible" : "hidden"}
@@ -111,7 +111,7 @@ const EventModal: React.FC<EventModalProps> = ({ event, onClose }) => {
 
       {/* 1. This is the main frame. Note it has NO overflow property. */}
       <motion.div
-        className={`relative bg-gray-900/80 backdrop-blur-xl rounded-lg shadow-2xl w-full max-w-4xl max-h-[calc(100vh-70px)] flex flex-col border ${borderColor}`}
+        className={`relative bg-gray-900/80 backdrop-blur-xl rounded-lg shadow-2xl w-full max-w-4xl md:max-h-[calc(100vh-70px)] max-h-[calc(100vh-99px)] flex flex-col border ${borderColor}`}
         onClick={handleModalClick}
         variants={modalVariants}
       >

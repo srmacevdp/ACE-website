@@ -85,13 +85,13 @@ export const StatCard: FC<StatCardProps> = ({ target, label, category }) => {
       {/* Content */}
       <div className="relative z-10 flex items-center justify-between h-full w-full">
         <div className="text-cyan-400 text-7xl font-black leading-none tracking-tight font-orbitron">
-          <span>{count}</span>
+          <span className="font-orbitron">{count}</span>
         </div>
         <div className="text-right pl-4">
-          <p className="text-white text-base font-semibold uppercase tracking-wider">
+          <p className="text-white text-base font-orbitron font-semibold uppercase tracking-wider">
             {label}
           </p>
-          <p className="text-cyan-300 text-xl font-bold">{category}</p>
+          <p className="text-cyan-300 text-xl font-bold font-orbitron">{category}</p>
         </div>
       </div>
     </div>

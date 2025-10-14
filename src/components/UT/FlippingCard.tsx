@@ -92,10 +92,21 @@ export const FlippingCard: React.FC = () => {
             <p className="text-center text-gray-300 mb-2">
               Join us for the biggest tech symposium of the year!
             </p>
-            <ul className="list-disc list-inside text-left text-gray-400">
-              <li>Date: Nov 15, 2025</li>
-              <li>Venue: Grand Arena</li>
-              <li>Keynote by Dr. Eva Core</li>
+            <ul className="list-disc list-inside text-left text-gray-200">
+              <li>Date: Oct 23rd, 2025</li>
+              <li>Venue: SRMIST Vadapalani</li>
+
+              <p className="text-sm mt-10">
+                UBERTECH AI Helix is a symposium conducted by the ACE Club at
+                SRMIST VDP, where innovation meets intelligence! We’re not just
+                a symposium — we’re a fusion of technology, creativity, and
+                limitless possibilities with Technical, Non-Technical and Gaming
+                Events. Dive into a world powered by AI and futuristic ideas
+                that push the boundaries of what’s possible. Join the movement,
+                challenge your skills, and be part of the next wave of tech
+                evolution. The future is calling — are you ready to decode it
+                with us?
+              </p>
             </ul>
           </motion.div>
         </motion.div>
