@@ -1,17 +1,17 @@
 [
   {
     "name": "Cypher Chase",
-    "description": "A digital mystery-solving game based on cyber-forensics, where players investigate clues, analyze data, and unravel hidden secrets to solve the case.",
+    "description": "A Digital mystery-solving game based on Cyber-Forensics, where players investigate clues, analyze data, and unravel hidden secrets to solve the case.Analyze, decrypt, and solve your way to victory!",
     "image": "/Events/UT/chase.png",
-    "date": "Fri, October 24, 2025**.",
-    "time": "TBA",
+    "date": "Fri, October 24th, 2025",
+    "time": "8:30am to 12:00pm",
     "venue": "LAB 1",
     "fee": "Team of 2 - ₹140",
-    "rules": [],
-    "rounds": [],
+    "rules": ["Participants must have basic technical coding knowledge and logical reasoning","Each team can consist of 3 to 4 members","Teams must report on time to the event venue","Use of unfair means, external help, internet access (unless required), AI, will lead to immediate disqualification","All participants must adhere to the time limits and instructions given by the coordinators","A student cannot be part of more than one team","All decisions regarding eligibility and final judgment rest with the faculty coordinators"],
+    "rounds": ["Single Round Only"],
     "contactPerson": [
       { "name": "A Soujanya", "phone": "+91 9951923078" },
-      { "name": "S sreya", "phone": "+91 7299168515" }
+      { "name": "S Sreya", "phone": "+91 7299168515" }
     ],
     "registrationLink": "https://docs.google.com/forms/d/1c4xSpGoBlBOjpsWBFVCHd8lJF_LLqpbb_hoxff6w0dw/edit?ts=68ebd161",
     "type": "Technical"
@@ -21,11 +21,11 @@
     "description": "Contestants use AI too..to generate outputs based on a theme. best/most creative wins.",
     "image": "/Events/UT/war.png",
     "date": "Thu, 23rd of October, 2025.",
-    "time": "TBA",
+    "time": "11:00am to 3:00pm",
     "venue": "LAB 1",
     "fee": "Team of 2 - ₹120",
-    "rules": [],
-    "rounds": [],
+    "rules": ["The Participants must work in teams of 2 members","Use of any AI or generative tool should strictly adhere to the event’s given guidelines","Unfair practices or plagiarism will lead to disqualification","Decisions of the judges will be final","No student can be a part of more than one team","All decisions regarding eligibility and final judgment shall rest with the faculty"],
+    "rounds": ["Single Round Only"],
     "contactPerson": [
       { "name": "Sarthak Agarwal", "phone": "+91 8299426750" },
       { "name": "Sandhya Dillybabu", "phone": "+91 9500698899" }
@@ -35,17 +35,14 @@
   },
   {
     "name": "Bug Blitz",
-    "description": "This is a fast-paced coding challenge for Individuals or Teams designed to test debugging and diagnostic skills under pressure.",
+    "description": "Dive into a fast-paced coding challenge where precision meets pressure. Spot the flaw, fix the code, and claim victory, only the sharpest minds can squash every bug in time!",
     "image": "/Events/UT/bug.png",
     "date": "Thu, 23rd of October, 2025.",
-    "time": "TBA",
+    "time": "11:00am to 3:00pm",
     "venue": "CW 305",
     "fee": "Team of 2 - ₹120",
-    "rules": [],
-    "rounds": [
-      "Round 1: Buggy Code Snippets: Participants race to find and fix errors in short, problematic code fragments.",
-      "Round 2 : System Diagnosis: Players must diagnose and fix larger, more complex issues within the faulty system/computer under a strict time limit."
-    ],
+    "rules": ["Teams must report on time to the event venue","Any unfair or unethical practice will lead to disqualification","Each team’s activity will be closely monitored by coordinators","All decisions regarding eligibility and final judgment rest with the faculty coordinator","A student cannot be a part of more than one team"],
+    "rounds": ["Round 1 – Preliminary Round","Round 2 – Final Round (Code Debugging Challenge)"],
     "contactPerson": [
       { "name": "Vibhu Sahu", "phone": "+91 9340089039" },
       { "name": "Rudrakash Agarwal", "phone": "+91 6383159411" }
@@ -55,14 +52,14 @@
   },
   {
     "name": "Design Escape",
-    "description": "challenge where participants quickly create innovative, user-friendly designs to solve a given problem, judged on creativity, usability, and visual appeal.",
+    "description": "Race against time to craft stunning, user-friendly designs that solve real-world problems. Let your imagination flow, your ideas stand out, and your visuals speak louder than words. Only the most innovative minds will escape the ordinary!",
     "image": "/Events/UT/escape.png",
     "date": "Fri, October 24, 2025.",
-    "time": "TBA",
+    "time": "8:30am to 12:00pm",
     "venue": "LAB 2",
     "fee": "Team of 2 - ₹120",
-    "rules": [],
-    "rounds": [],
+    "rules": ["Each team must consist of 1-2 members","The design must be created during the event — no pre-made templates or reused work allowed","Use of AI is prohibited","Participants may use any of the approved tools: Canva, Figma, or Sketch","Teams must submit their design file or prototype link before time runs out","The decision of the judges will be final","Participants can use personal laptops with design tools pre-installed or use online access"],
+    "rounds": ["Single Round Only"],
     "contactPerson": [
       { "name": "Yogesh", "phone": "+91 8072591978" },
       { "name": "Jai Kaarthik B", "phone": "+91 8870354206" }
@@ -72,14 +69,14 @@
   },
   {
     "name": "Flip the Script",
-    "description": "participants first argue for a given topic, presenting strong points in its favor. When the host announces “switch,” they must instantly shift and argue against the same topic with equal conviction. This format tests quick thinking, adaptability, and the ability to see both sides of an argument.",
+    "description": "Participants first argue for a given topic, presenting strong points in its favor. When the host announces “switch,” they must instantly shift and argue against the same topic with equal conviction. This format tests quick thinking, adaptability, and the ability to see both sides of an argument.",
     "image": "/Events/UT/flip.png",
-    "date": "Thu, 23rd of October, 2025.",
-    "time": "TBA",
+    "date": "Thu, 23rd of October, 2025",
+    "time": "11:00am to 3:00pm",
     "venue": "BW 108",
     "fee": "₹75",
-    "rules": [],
-    "rounds": [],
+    "rules": ["This is an individual event","Topics will be given on the spot","Each participant gets 3 minutes of preparation time before speaking","Total speaking time: 4 to 6 minutes","The host can call “Switch!” at any point — multiple times during the round"],
+    "rounds": ["Round 1 - Preliminary Round","Round 2 - Final Round"],
     "contactPerson": [
       { "name": "Vidya", "phone": "+91 9940057896" },
       { "name": "Nithila K", "phone": "+91 8122992345" }
@@ -88,15 +85,15 @@
     "type": "Non-Technical"
   },
   {
-    "name": "Trivia trek",
-    "description": "A cinematic trivia challenge spanning the finest moments of world cinema..",
+    "name": "Trivia Trek",
+    "description": "A cinematic trivia challenge spanning the finest moments of world cinema. Test your knowledge, crack clues, and outsmart the rest in this Trivia Trek",
     "image": "/Events/UT/trivia.png",
     "date": "Fri, October 24, 2025.",
-    "time": "TBA",
+    "time": "8:30am to 12:00pm",
     "venue": "CW 304",
     "fee": "Team of 2 - ₹120 Team of 3 - ₹180",
-    "rules": [],
-    "rounds": [],
+    "rules": ["Questions will span topics from Movies, Songs, Sports, Books, and Classic Trivia","Each correct answer carries 1 point, unless otherwise specified","Participants must respond within the time limit announced by the co-ordinators","No use of phones, gadgets, or external help is permitted during the quiz","Once an answer is submitted or time is up, no changes can be made","Each team is allowed to raise hands only if they know the answer","Only one person from a team is supposed to raise their hand","Participants are requested to raise their hands only upon reading the question. In case of repeated hand-raising, points will be deducted","No negative points for wrong answers","In case of a tie, tie-breaker questions will determine the winner","Participants must maintain decorum, discipline, and fair play throughout the event","Any act of cheating, arguing, or disrupting the flow of the game will result in immediate disqualification","Prompting or whispering answers to others during the quiz is strictly prohibited","All participants are expected to uphold the spirit of healthy competition and fun that defines Trivia Trek"],
+    "rounds": ["First Round – The Warm-Up Round","Second Round – The Mid-Level Round","Third Round – The Thrilling Finale"],
     "contactPerson": [
       { "name": "Sarah Ninan", "phone": "+91 9003259538" },
       { "name": "Bhavana L ", "phone": "+91 9176064756" }
@@ -109,11 +106,11 @@
     "description": "The IPL Auction brings the thrill of strategy and bidding as teams compete to build their dream squads. Get ready for high stakes, surprises, and the excitement of cricket’s biggest marketplace",
     "image": "/Events/UT/ipl.png",
     "date": "Thu, 23rd of October, 2025.",
-    "time": "TBA",
+    "time": "11:00am to 3:00pm",
     "venue": "AUDITORIUM",
     "fee": "Team of 2 - ₹140 Team of 3 - ₹180 Team of 3 - ₹200",
-    "rules": [],
-    "rounds": [],
+    "rules": ["Teams can consist of 2, 3 or 4 members","Each team can select only a maximum of 11 players only","Any doubts should be cleared only to the event coordinators","Teams cannot exceed the given budget of ₹80 crores","The overall statistics of each of the 11 players in the team will be taken into consideration (6 Indians & max of 5 foreigners)","Allowed team size: 4 players(max) or 2 (min)per team","A player can participate in only one team"],
+    "rounds": ["Round 1: Cricket IQ Challenge","Round 2: The IPL Auction Arena"],
     "contactPerson": [
       { "name": "Vignesh Murali", "phone": "+91 9363683814" },
       { "name": "T Aakash", "phone": "+91 8778980782" }
@@ -122,15 +119,15 @@
     "type": "Non-Technical"
   },
   {
-    "name": "Ship wreck",
-    "description": "Each participant is a famous character (Thanos, Messi, Einstein, Barbie ).They must convince the judges why they deserve the last spot on a sinking ship.Super fun + creative acting!",
+    "name": "Ship Wreck",
+    "description": "Each participant is a famous character (Thanos, Messi, Einstein, Barbie), they must convince the judges why they deserve the last spot on a sinking ship. Super fun + creative acting!",
     "image": "/Events/UT/ship.png",
     "date": "Fri, October 24, 2025.",
-    "time": "TBA",
+    "time": "8:30am to 12:00pm",
     "venue": "BW 108",
     "fee": "₹75",
-    "rules": [],
-    "rounds": [],
+    "rules": ["Participants must choose or be assigned a unique character — no duplicates","The argument should be original and in sync with the chosen character’s personality","Bonus points for improvisation, witty comebacks, and dramatic flair","Exceeding time limits or breaking character will result in point deductions","Use of inappropriate or offensive language will lead to disqualification","Decision of the judges will be final and binding"],
+    "rounds": ["Single Round Only"],
     "contactPerson": [
       { "name": "Aditi Singh", "phone": "+91 6394131330" },
       { "name": "Zarana", "phone": "+91 8248644332" }
@@ -140,14 +137,14 @@
   },
   {
     "name": "FIFA",
-    "description": "Kick, Score and conquer the digital pitch of the football simulation video game.",
+    "description": "Kick, Score and Conquer the digital pitch of the football simulation video game. Face off in the ultimate FIFA showdown — every goal counts, every move matters.",
     "image": "/Events/UT/fifa.png",
     "date": "Thu, 23rd of October, 2025.",
-    "time": "TBA",
+    "time": "11:00am to 3:00pm",
     "venue": "LAB 2",
     "fee": "Team of 2 - ₹150",
-    "rules": [],
-    "rounds": [],
+    "rules": ["The event will be conducted on PlayStation","Players must use the same console and controls provided at the venue","No custom teams or edited players are allowed , only standard club or national teams","Match settings will be uniform for all games (5 to 6 minutes per half for round one and a full match for round two)","Players must report 10 minutes before their scheduled match","Any unfair or unsportsmanlike conduct will lead to immediate disqualification","Decisions made by coordinators and judges are final","Participation type: Duo Event (2 players per entry)","All technical decisions and tie-breaker rules will be handled by the event coordinators","No participant can register for multiple slots"],
+    "rounds": ["Round 1 – Qualifiers (Preliminary Round)","Round 2 – Finals"],
     "contactPerson": [
       { "name": "Hameed Salihu", "phone": "+91 7358160521" },
       { "name": "Karthik Balaji M", "phone": "+91 9343519237" }
@@ -157,14 +154,14 @@
   },
   {
     "name": "BGMI",
-    "description": "We got supplies. It is a team event where you can showcase your BGMI skills.",
+    "description": "Battle it out in the BGMI arena and prove you’ve got what it takes to survive the storm. We got supplies, show your strategy, aim, and teamwork in this high-stakes BGMI clash.",
     "image": "/Events/UT/BGMI.png",
     "date": "Fri, October 24, 2025.",
-    "time": "TBA",
+    "time": "8:30am to 12:00pm",
     "venue": "BW 308",
     "fee": "Team of 2 - ₹140 Team of 3 - ₹180 Team of 3 - ₹200",
-    "rules": [],
-    "rounds": [],
+    "rules": ["The first round of the event is based on battle royale i.e Room Match","Per kills/eliminations by a participant will be counted as 1 point","Player limit for first round is 100","Any team or player of the team caught using any hacks will be disqualified from the event"],
+    "rounds": ["The First Round (Preliminary Round)","Second Round (Elimination Round)","Third Round (Finals)"],
     "contactPerson": [
       { "name": "Tejas Srinivasan M", "phone": "+91 9994077703" },
       { "name": "Kaushik P", "phone": "+91 9444263542" }
@@ -174,14 +171,14 @@
   },
   {
     "name": "Valorant",
-    "description": "Unleash your tactical prowess! Gear up, lock and load to dominate the battlefield of Valorant",
+    "description": "Team up, strategize, and battle your way to victory in this ultimate Valorant showdown. Compete in an action-packed Valorant tournament and show who truly holds the spike!",
     "image": "/Events/UT/valorant.png",
     "date": "Thu, 23rd of October, 2025.",
-    "time": "TBA",
+    "time": "11:00am to 3:00pm",
     "venue": "BW 308",
     "fee": "Team of 5 - ₹300",
-    "rules": [],
-    "rounds": ["Round 1 : Knockout round", "Round 2: Best of 3 maps"],
+    "rules": ["Each team must consist of 5 players","Players must use their own Laptops/PCs and Riot accounts and are responsible for keeping them in working condition","Participants will be playing from their respective place of residence and ensure that they have a proper internet connection","Each team will get 2 tactical timeouts (1min) per match","If a player disconnects, a 5-minute reconnection time will be given, after which a substitute player should take his place, or the team must play one man down","The decision of the coordinators will be final and binding","Allowed team size: 5 players per team"],
+    "rounds": ["Single Round Only"],
     "contactPerson": [
       { "name": "Mark Owen A", "phone": "+91 9499006899" },
       { "name": "Deepak", "phone": "+91 7200156900" }

@@ -13,27 +13,25 @@ interface FaqItemProps {
 const faqData: FaqItemProps[] = [
   {
     id: 1,
-    question: "Is a refund possible?",
-    answer:
-      "No refunds are available at this time. Registrations are treated as final",
+    question: "Will i get a refund if I lose?",
+    answer: "No refunds are available at this time. Losing is a skill issue",
   },
   {
     id: 2,
     question: "How many events can you register for?",
     answer:
-      "You can register for as many events as you like, provided there are no scheduling conflicts. Each event may have its own capacity limits, so be sure to register early to secure your spot.",
+      "You can register for literally everything on the list—as long as you figured out how to clone yourself",
   },
   {
     id: 3,
-    question: "Will OD be provided?",
-    answer:
-      "Yes, OD will be provided for all events. Please ensure you attend the sessions to receive your OD credits.",
+    question: "Will OD be provided if I do not attend?",
+    answer: "No , OD will not be provided if you do not attend the event 😏",
   },
   {
     id: 4,
-    question: "Will certificates be provided?",
+    question: "Will refreshments be provided during the events?",
     answer:
-      "Yes, certificates will be provided to participants who complete the events. Make sure to attend all required sessions and complete any necessary evaluations to receive your certificate.",
+      "We want you to bring everything youve got to our events ( including your own snacks 😊 )",
   },
 ];
 
