@@ -7,7 +7,15 @@
     "time": "8:30am to 12:00pm",
     "venue": "LAB 1",
     "fee": "Team of 2 - ₹140",
-    "rules": ["Participants must have basic technical coding knowledge and logical reasoning","Each team can consist of 3 to 4 members","Teams must report on time to the event venue","Use of unfair means, external help, internet access (unless required), AI, will lead to immediate disqualification","All participants must adhere to the time limits and instructions given by the coordinators","A student cannot be part of more than one team","All decisions regarding eligibility and final judgment rest with the faculty coordinators"],
+    "rules": [
+      "Participants must have basic technical coding knowledge and logical reasoning",
+      "Each team can consist of 3 to 4 members",
+      "Teams must report on time to the event venue",
+      "Use of unfair means, external help, internet access (unless required), AI, will lead to immediate disqualification",
+      "All participants must adhere to the time limits and instructions given by the coordinators",
+      "A student cannot be part of more than one team",
+      "All decisions regarding eligibility and final judgment rest with the faculty coordinators"
+    ],
     "rounds": ["Single Round Only"],
     "contactPerson": [
       { "name": "A Soujanya", "phone": "+91 9951923078" },
@@ -24,7 +32,14 @@
     "time": "11:00am to 3:00pm",
     "venue": "LAB 1",
     "fee": "Team of 2 - ₹120",
-    "rules": ["The Participants must work in teams of 2 members","Use of any AI or generative tool should strictly adhere to the event’s given guidelines","Unfair practices or plagiarism will lead to disqualification","Decisions of the judges will be final","No student can be a part of more than one team","All decisions regarding eligibility and final judgment shall rest with the faculty"],
+    "rules": [
+      "The Participants must work in teams of 2 members",
+      "Use of any AI or generative tool should strictly adhere to the event’s given guidelines",
+      "Unfair practices or plagiarism will lead to disqualification",
+      "Decisions of the judges will be final",
+      "No student can be a part of more than one team",
+      "All decisions regarding eligibility and final judgment shall rest with the faculty"
+    ],
     "rounds": ["Single Round Only"],
     "contactPerson": [
       { "name": "Sarthak Agarwal", "phone": "+91 8299426750" },
@@ -39,10 +54,19 @@
     "image": "/Events/UT/bug.png",
     "date": "Thu, 23rd of October, 2025.",
     "time": "11:00am to 3:00pm",
-    "venue": "CW 305",
+    "venue": "LAB 2",
     "fee": "Team of 2 - ₹120",
-    "rules": ["Teams must report on time to the event venue","Any unfair or unethical practice will lead to disqualification","Each team’s activity will be closely monitored by coordinators","All decisions regarding eligibility and final judgment rest with the faculty coordinator","A student cannot be a part of more than one team"],
-    "rounds": ["Round 1 – Preliminary Round","Round 2 – Final Round (Code Debugging Challenge)"],
+    "rules": [
+      "Teams must report on time to the event venue",
+      "Any unfair or unethical practice will lead to disqualification",
+      "Each team’s activity will be closely monitored by coordinators",
+      "All decisions regarding eligibility and final judgment rest with the faculty coordinator",
+      "A student cannot be a part of more than one team"
+    ],
+    "rounds": [
+      "Round 1 – Preliminary Round",
+      "Round 2 – Final Round (Code Debugging Challenge)"
+    ],
     "contactPerson": [
       { "name": "Vibhu Sahu", "phone": "+91 9340089039" },
       { "name": "Rudrakash Agarwal", "phone": "+91 6383159411" }
@@ -58,7 +82,15 @@
     "time": "8:30am to 12:00pm",
     "venue": "LAB 2",
     "fee": "Team of 2 - ₹120",
-    "rules": ["Each team must consist of 1-2 members","The design must be created during the event — no pre-made templates or reused work allowed","Use of AI is prohibited","Participants may use any of the approved tools: Canva, Figma, or Sketch","Teams must submit their design file or prototype link before time runs out","The decision of the judges will be final","Participants can use personal laptops with design tools pre-installed or use online access"],
+    "rules": [
+      "Each team must consist of 1-2 members",
+      "The design must be created during the event — no pre-made templates or reused work allowed",
+      "Use of AI is prohibited",
+      "Participants may use any of the approved tools: Canva, Figma, or Sketch",
+      "Teams must submit their design file or prototype link before time runs out",
+      "The decision of the judges will be final",
+      "Participants can use personal laptops with design tools pre-installed or use online access"
+    ],
     "rounds": ["Single Round Only"],
     "contactPerson": [
       { "name": "Yogesh", "phone": "+91 8072591978" },
@@ -75,8 +107,14 @@
     "time": "11:00am to 3:00pm",
     "venue": "BW 108",
     "fee": "₹75",
-    "rules": ["This is an individual event","Topics will be given on the spot","Each participant gets 3 minutes of preparation time before speaking","Total speaking time: 4 to 6 minutes","The host can call “Switch!” at any point — multiple times during the round"],
-    "rounds": ["Round 1 - Preliminary Round","Round 2 - Final Round"],
+    "rules": [
+      "This is an individual event",
+      "Topics will be given on the spot",
+      "Each participant gets 3 minutes of preparation time before speaking",
+      "Total speaking time: 4 to 6 minutes",
+      "The host can call “Switch!” at any point — multiple times during the round"
+    ],
+    "rounds": ["Round 1 - Preliminary Round", "Round 2 - Final Round"],
     "contactPerson": [
       { "name": "Vidya", "phone": "+91 9940057896" },
       { "name": "Nithila K", "phone": "+91 8122992345" }
@@ -90,10 +128,29 @@
     "image": "/Events/UT/trivia.png",
     "date": "Fri, October 24, 2025.",
     "time": "8:30am to 12:00pm",
-    "venue": "CW 304",
+    "venue": "BW 107",
     "fee": "Team of 2 - ₹120 Team of 3 - ₹180",
-    "rules": ["Questions will span topics from Movies, Songs, Sports, Books, and Classic Trivia","Each correct answer carries 1 point, unless otherwise specified","Participants must respond within the time limit announced by the co-ordinators","No use of phones, gadgets, or external help is permitted during the quiz","Once an answer is submitted or time is up, no changes can be made","Each team is allowed to raise hands only if they know the answer","Only one person from a team is supposed to raise their hand","Participants are requested to raise their hands only upon reading the question. In case of repeated hand-raising, points will be deducted","No negative points for wrong answers","In case of a tie, tie-breaker questions will determine the winner","Participants must maintain decorum, discipline, and fair play throughout the event","Any act of cheating, arguing, or disrupting the flow of the game will result in immediate disqualification","Prompting or whispering answers to others during the quiz is strictly prohibited","All participants are expected to uphold the spirit of healthy competition and fun that defines Trivia Trek"],
-    "rounds": ["First Round – The Warm-Up Round","Second Round – The Mid-Level Round","Third Round – The Thrilling Finale"],
+    "rules": [
+      "Questions will span topics from Movies, Songs, Sports, Books, and Classic Trivia",
+      "Each correct answer carries 1 point, unless otherwise specified",
+      "Participants must respond within the time limit announced by the co-ordinators",
+      "No use of phones, gadgets, or external help is permitted during the quiz",
+      "Once an answer is submitted or time is up, no changes can be made",
+      "Each team is allowed to raise hands only if they know the answer",
+      "Only one person from a team is supposed to raise their hand",
+      "Participants are requested to raise their hands only upon reading the question. In case of repeated hand-raising, points will be deducted",
+      "No negative points for wrong answers",
+      "In case of a tie, tie-breaker questions will determine the winner",
+      "Participants must maintain decorum, discipline, and fair play throughout the event",
+      "Any act of cheating, arguing, or disrupting the flow of the game will result in immediate disqualification",
+      "Prompting or whispering answers to others during the quiz is strictly prohibited",
+      "All participants are expected to uphold the spirit of healthy competition and fun that defines Trivia Trek"
+    ],
+    "rounds": [
+      "First Round – The Warm-Up Round",
+      "Second Round – The Mid-Level Round",
+      "Third Round – The Thrilling Finale"
+    ],
     "contactPerson": [
       { "name": "Sarah Ninan", "phone": "+91 9003259538" },
       { "name": "Bhavana L ", "phone": "+91 9176064756" }
@@ -109,8 +166,19 @@
     "time": "11:00am to 3:00pm",
     "venue": "AUDITORIUM",
     "fee": "Team of 2 - ₹140 Team of 3 - ₹180 Team of 3 - ₹200",
-    "rules": ["Teams can consist of 2, 3 or 4 members","Each team can select only a maximum of 11 players only","Any doubts should be cleared only to the event coordinators","Teams cannot exceed the given budget of ₹80 crores","The overall statistics of each of the 11 players in the team will be taken into consideration (6 Indians & max of 5 foreigners)","Allowed team size: 4 players(max) or 2 (min)per team","A player can participate in only one team"],
-    "rounds": ["Round 1: Cricket IQ Challenge","Round 2: The IPL Auction Arena"],
+    "rules": [
+      "Teams can consist of 2, 3 or 4 members",
+      "Each team can select only a maximum of 11 players only",
+      "Any doubts should be cleared only to the event coordinators",
+      "Teams cannot exceed the given budget of ₹80 crores",
+      "The overall statistics of each of the 11 players in the team will be taken into consideration (6 Indians & max of 5 foreigners)",
+      "Allowed team size: 4 players(max) or 2 (min)per team",
+      "A player can participate in only one team"
+    ],
+    "rounds": [
+      "Round 1: Cricket IQ Challenge",
+      "Round 2: The IPL Auction Arena"
+    ],
     "contactPerson": [
       { "name": "Vignesh Murali", "phone": "+91 9363683814" },
       { "name": "T Aakash", "phone": "+91 8778980782" }
@@ -126,7 +194,14 @@
     "time": "8:30am to 12:00pm",
     "venue": "BW 108",
     "fee": "₹75",
-    "rules": ["Participants must choose or be assigned a unique character — no duplicates","The argument should be original and in sync with the chosen character’s personality","Bonus points for improvisation, witty comebacks, and dramatic flair","Exceeding time limits or breaking character will result in point deductions","Use of inappropriate or offensive language will lead to disqualification","Decision of the judges will be final and binding"],
+    "rules": [
+      "Participants must choose or be assigned a unique character — no duplicates",
+      "The argument should be original and in sync with the chosen character’s personality",
+      "Bonus points for improvisation, witty comebacks, and dramatic flair",
+      "Exceeding time limits or breaking character will result in point deductions",
+      "Use of inappropriate or offensive language will lead to disqualification",
+      "Decision of the judges will be final and binding"
+    ],
     "rounds": ["Single Round Only"],
     "contactPerson": [
       { "name": "Aditi Singh", "phone": "+91 6394131330" },
@@ -141,10 +216,21 @@
     "image": "/Events/UT/fifa.png",
     "date": "Thu, 23rd of October, 2025.",
     "time": "11:00am to 3:00pm",
-    "venue": "LAB 2",
+    "venue": "BW 107",
     "fee": "Team of 2 - ₹150",
-    "rules": ["The event will be conducted on PlayStation","Players must use the same console and controls provided at the venue","No custom teams or edited players are allowed , only standard club or national teams","Match settings will be uniform for all games (5 to 6 minutes per half for round one and a full match for round two)","Players must report 10 minutes before their scheduled match","Any unfair or unsportsmanlike conduct will lead to immediate disqualification","Decisions made by coordinators and judges are final","Participation type: Duo Event (2 players per entry)","All technical decisions and tie-breaker rules will be handled by the event coordinators","No participant can register for multiple slots"],
-    "rounds": ["Round 1 – Qualifiers (Preliminary Round)","Round 2 – Finals"],
+    "rules": [
+      "The event will be conducted on PlayStation",
+      "Players must use the same console and controls provided at the venue",
+      "No custom teams or edited players are allowed , only standard club or national teams",
+      "Match settings will be uniform for all games (5 to 6 minutes per half for round one and a full match for round two)",
+      "Players must report 10 minutes before their scheduled match",
+      "Any unfair or unsportsmanlike conduct will lead to immediate disqualification",
+      "Decisions made by coordinators and judges are final",
+      "Participation type: Duo Event (2 players per entry)",
+      "All technical decisions and tie-breaker rules will be handled by the event coordinators",
+      "No participant can register for multiple slots"
+    ],
+    "rounds": ["Round 1 – Qualifiers (Preliminary Round)", "Round 2 – Finals"],
     "contactPerson": [
       { "name": "Hameed Salihu", "phone": "+91 7358160521" },
       { "name": "Karthik Balaji M", "phone": "+91 9343519237" }
@@ -158,10 +244,19 @@
     "image": "/Events/UT/BGMI.png",
     "date": "Fri, October 24, 2025.",
     "time": "8:30am to 12:00pm",
-    "venue": "BW 308",
+    "venue": "BW 106",
     "fee": "Team of 2 - ₹140 Team of 3 - ₹180 Team of 3 - ₹200",
-    "rules": ["The first round of the event is based on battle royale i.e Room Match","Per kills/eliminations by a participant will be counted as 1 point","Player limit for first round is 100","Any team or player of the team caught using any hacks will be disqualified from the event"],
-    "rounds": ["The First Round (Preliminary Round)","Second Round (Elimination Round)","Third Round (Finals)"],
+    "rules": [
+      "The first round of the event is based on battle royale i.e Room Match",
+      "Per kills/eliminations by a participant will be counted as 1 point",
+      "Player limit for first round is 100",
+      "Any team or player of the team caught using any hacks will be disqualified from the event"
+    ],
+    "rounds": [
+      "The First Round (Preliminary Round)",
+      "Second Round (Elimination Round)",
+      "Third Round (Finals)"
+    ],
     "contactPerson": [
       { "name": "Tejas Srinivasan M", "phone": "+91 9994077703" },
       { "name": "Kaushik P", "phone": "+91 9444263542" }
@@ -175,9 +270,17 @@
     "image": "/Events/UT/valorant.png",
     "date": "Thu, 23rd of October, 2025.",
     "time": "11:00am to 3:00pm",
-    "venue": "BW 308",
+    "venue": "BW 102",
     "fee": "Team of 5 - ₹300",
-    "rules": ["Each team must consist of 5 players","Players must use their own Laptops/PCs and Riot accounts and are responsible for keeping them in working condition","Participants will be playing from their respective place of residence and ensure that they have a proper internet connection","Each team will get 2 tactical timeouts (1min) per match","If a player disconnects, a 5-minute reconnection time will be given, after which a substitute player should take his place, or the team must play one man down","The decision of the coordinators will be final and binding","Allowed team size: 5 players per team"],
+    "rules": [
+      "Each team must consist of 5 players",
+      "Players must use their own Laptops/PCs and Riot accounts and are responsible for keeping them in working condition",
+      "Participants will be playing from their respective place of residence and ensure that they have a proper internet connection",
+      "Each team will get 2 tactical timeouts (1min) per match",
+      "If a player disconnects, a 5-minute reconnection time will be given, after which a substitute player should take his place, or the team must play one man down",
+      "The decision of the coordinators will be final and binding",
+      "Allowed team size: 5 players per team"
+    ],
     "rounds": ["Single Round Only"],
     "contactPerson": [
       { "name": "Mark Owen A", "phone": "+91 9499006899" },
