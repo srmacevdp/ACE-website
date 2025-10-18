@@ -31,7 +31,7 @@ const faqData: FaqItemProps[] = [
     id: 4,
     question: "Will refreshments be provided during the events?",
     answer:
-      "We want you to bring everything youve got to our events ( including your own snacks 😊 )",
+      "We want you to bring everything you've got to our events ( including your own snacks 😊 )",
   },
 ];
 
